@@ -75,14 +75,14 @@
 
 
 
-# for i in range(1, 30):
-#      print()
-#      if  == 30:
-#           break
+for i in range(1, 30):
+     print()
+     if  30:
+          break
 
- # while i < 32:
-#      print(i)
-#      i +=2
+while i < 32:
+     print(i)
+     i +=2
 
 
 

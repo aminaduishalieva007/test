@@ -19,7 +19,7 @@
 
 
 
-# #a = str(input("Enter your name: "))
+#a = str(input("Enter your name: "))
 # name("Elaman")
 
 
@@ -64,15 +64,3 @@
 
 # #a = str(input("Enter your name: "))
 # name("Elaman")
-
-
-
-
-
-
-
-
-
-
-
-

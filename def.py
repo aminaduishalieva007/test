@@ -176,3 +176,47 @@
 #     for i in range 
 #         print
 #     draw_box(1, 15)
+
+
+
+# def sad(ball):
+#     b = sum(ball)
+#     a = len(ball)
+#     print(b/a)
+
+
+# ball = [2, 4, 5, 3]
+# sad(ball) 
+
+
+
+# def b(k):
+#     list = 0
+#     for i in range(1,k+1):
+#         if k%i==0:
+#             list = list + 1
+#     return list
+# a = int(input(('san jaz;')))
+# print(b(20))
+
+
+# a = "asnanksas"
+# b = 0
+# for i in a:
+#     if i=="a":
+#         b = b + 1
+
+# print()
+
+
+# def find_all(soz, tamga):
+#     a = 0
+#     for i in soz:
+#         if i==tamga:
+#             a = a+1
+#     return a 
+
+
+# a = str(input("soz jaz: "))
+# b = str(input("tanga jaz: "))
+# print(find_all(a, b))

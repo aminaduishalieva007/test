@@ -22,5 +22,3 @@
 # numbers = [1, 2, 2, 3, 4, 4, 5]
 # numbers.pop(1)
 # numbers.pop(4)
-
-# print(numbers)

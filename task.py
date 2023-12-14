@@ -119,18 +119,18 @@
 #     rai = 5
 #     abc = ['_'] * str 
 
-#     print("Добро пожаловать в игру 'Угадай число!'")
-#     print("У вас есть", rai, "попыток. Ваше слово содержит", len, "букв.")
-#     while True:
-#         guess  = (input("напиши слова : "))
-#         попытка += 1
-#         if guess < lan:
-#              print("ушул сандан чон !")
-#         elif guess > lan:
-#               print("ушул сандан кичине !")
-#         else:
-#              print((f"куттуктайм! Сен таптын санды {abc} за {попытка} папытка!"))
-#              break
+    # print("Добро пожаловать в игру 'Угадай число!'")
+    # print("У вас есть", rai, "попыток. Ваше слово содержит", len, "букв.")
+    # while True:
+    #     guess  = (input("напиши слова : "))
+    #     попытка += 1
+    #     if guess < lan:
+    #          print("ушул сандан чон !")
+    #     elif guess > lan:
+    #           print("ушул сандан кичине !")
+    #     else:
+    #          print((f"куттуктайм! Сен таптын санды {abc} за {попытка} папытка!"))
+    #          break
 
 
 
@@ -323,4 +323,119 @@
 #     b = a%60
 #     c = a // 60
 #     print(str(a) + "- eto"  + str(c) + "saat" + str(b) + "min"  )
+
+
+# def func(a):
+#     print(a * 0.6214)
+# km = int(input("km jaz"))
+# func(km)
+
+# class A(Das):
+#     def __init__(self,):
+
+# class A(Das):
+#     def __init      
+# def ab(a, b):
+#     c = a+b
+#     c.sort()
+#     return c 
+
+# print(ab([1, 2, 3],[5, 4, 6, 8]))
+
+
+
+
+
+
+   
+
+# class A:
+   
+#    def __init__(self,lis,lis2):
+#       self.lis = lis
+#       self.lis2 = lis2
+
+
+#    def a(self):
+#       a = sorted(self.lis+self.lis2)
+#       return a
+# list = [13,75,10,16]
+# list1 = [5,6,343,245]
+# b = A(list,list1)
+# print(b.a())
+
+
+
+# a = int(input('aга сан киргиз'))
+# b = int(input('bга сан киргиз'))
+# if (a>b):
+#             print('чон сан = : a' )
+# elif (a<b):
+#         print('барабар')
+
+
+
+
+# a = int(input("Введите start1 от 1 до 8: "))
+# b= int(input("Введите star2 от 1 до 8: "))
+# a1 = int(input("Введите конец1 от 1 до 8: "))
+# b1 = int(input("Введите конец2 от 1 до 8: "))
+# if a == b or a1 == b1:
+#     print(True)
+# else:
+#     print(False)
+
+
+
+# a = int(input('san jaz'))
+
+# if a%3!=0:
+#     print('bolynboit')
+# else:
+#     print('bolynot')
+
+
+# a = int(input('san jaz'))
+# b = int(input('san jaz'))
+# c = int(input('san jaz'))
+
+# if a < c and c > b:
+#     print(c)
+# elif a < b and c < b:
+#     print(b)
+# else:
+#     print(a)
+
+# a = []
+# n = int(input())
+# for i in range(n):
+#     b = int(input())
+#     a.append(b)
+
+# t = 1000
+
+# for i in a:
+#     if i < t:
+#       t = i
+# print(t)
+
+# a = int(input())
+
+# try:
+#     print(a / 0)
+# except:
+#     print('sandy nolgo bolso bolboit')
+# else:
+#     print('askatgyl')
+
+
+
+# def methot_plus(*args):
+#     try:
+#         s = 0
+#         for i in args:
+#             s = s + i
+#     except TypeError:
+#         print('str menen int koshulbait!')
+# methot_plus(2345,'geg')
 
