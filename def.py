@@ -176,12 +176,3 @@
 #     for i in range 
 #         print
 #     draw_box(1, 15)
-
-
-
-n = int(input())
-i = 0
-for i in range(1, n*1):
-    i = i+1
-    if n % i==0:
-        print(i)
